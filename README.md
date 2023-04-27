@@ -1,3 +1,3 @@
-# e-commerce website.
+# E-Commerce website.
 
 - include 404 ptofile.
