@@ -1,3 +1,7 @@
-# E-Commerce website.
+= e-Commerce website.
 
-- include 404 ptofile.
+- css Grid.
+
+- static online shop design.
+
+
