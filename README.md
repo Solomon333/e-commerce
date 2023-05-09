@@ -1,4 +1,4 @@
- e-commerce website.
+ E-commerce Website.
 
 - css Grid.
 
