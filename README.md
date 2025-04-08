@@ -1,7 +1,6 @@
  E-commerce Website.
 
-- css Grid
--  static online
+- css Grid / static online
 -   shop design
 
 
